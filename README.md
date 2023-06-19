@@ -1,4 +1,4 @@
-![Banner Image](https://huudangdev.github.io/portfolio/static/media/wall-min.ceb8c056.jpg)
+![Banner Image](/banner.png)
 <div align="center">
     <h2>Hi, I’m Dang. 👋</h2>
 </div>
