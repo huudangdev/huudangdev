@@ -1,7 +1,4 @@
 ![Banner Image](/banner.png)
-<div align="center">
-    <h2>Hi, I’m Dang. 👋</h2>
-</div>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=huudangdev)](https://github.com/huudangdev) [![GitHub followers](https://img.shields.io/github/followers/huudangdev.svg?style=social&label=Follow)](https://github.com/huudangdev?tab=followers)
 
