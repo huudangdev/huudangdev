@@ -49,6 +49,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huudangdev&show_icons=true&theme=radical&count_private=true)](https://www.linkedin.com/in/nguyentranhuudang/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huudangdev&layout=compact)](https://github.com/huudangdev)
 
 <h2> About me⚡:</h2>
 
