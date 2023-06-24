@@ -3,7 +3,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=huudangdev)](https://github.com/huudangdev) [![GitHub followers](https://img.shields.io/github/followers/huudangdev.svg?style=social&label=Follow)](https://github.com/huudangdev?tab=followers)
 
 - <i>Currently:</i> PM at Blockchain company about Dapp. 
-- <i>Previously:</i> Software Engineer with technical passion.
+- <i>Previously:</i> Software Engineer.
 
 <h2>💻 I'm Currently workng on</h2>
 
