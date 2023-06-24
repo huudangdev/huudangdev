@@ -65,12 +65,3 @@ Major interest lie in:
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:dang.nguyentranhuu@gmail.com">![dang.nguyentranhuu@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/nguyentranhuudang/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-### Licenses & certifications
-- [Ethereum : Decentralized Application Design & Development](https://udemy-certificate.s3.amazonaws.com/image/UC-9GT9JDKV.jpg)
-- [Ethereum and Solidity: The Complete Developer's Guide](https://udemy-certificate.s3.amazonaws.com/image/UC-7HA7HGGN.jpg)
-- [Blockchain Advanced Level: Uses Beyond Bitcoin 2018](https://udemy-certificate.s3.amazonaws.com/image/UC-117WRSAG.jpg)
-- [Compile Your First Ethereum Smart Contract With Solidity](https://udemy-certificate.s3.amazonaws.com/image/UC-DW331BM3.jpg)
-- [The Coding Interview Bootcamp : Algorithms + Datatructures ](https://udemy-certificate.s3.amazonaws.com/image/UC-DNDY6I5W.jpg)
-- [Problem Solving](https://www.hackerrank.com/certificates/dd58c341f5dd)
-
